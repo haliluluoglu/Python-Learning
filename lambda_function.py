@@ -17,3 +17,4 @@ sum_odds=reduce(lambda a,b: a+b, odds)
 print("{} sum of even numbers".format(sum_evens))
 print("{} sum of odd numbers".format(sum_odds))
 
+
