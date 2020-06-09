@@ -20,5 +20,3 @@ laptop1=Student.Laptop("Lenovo", "i9", 16)
 
 student1.info()
 laptop1.info()
-
-
