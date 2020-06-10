@@ -17,4 +17,3 @@ class C(A,B):
         print("Class C init function")
 
 class_c_object=C()
-
