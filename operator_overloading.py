@@ -17,6 +17,7 @@ class Student:
         mul2=self.mark2*other.mark2
         multiplication=Student(mul1,mul2)
         return multiplication
+
     def __ge__(self, other):
         sum1=self.mark1+self.mark2
         sum2=other.mark1+other.mark2
