@@ -1,3 +1,4 @@
+#Printing 1-10 using iterators.
 class TopTen():
     def __init__(self):
         self.num=0
