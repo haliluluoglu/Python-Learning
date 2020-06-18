@@ -39,9 +39,3 @@ Student.modify_school()
 print(student2.school)
 
 Student.info()
-
-
-
-
-
-
